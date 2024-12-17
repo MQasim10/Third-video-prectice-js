@@ -1,0 +1,13 @@
+{
+    "s.no": 1,
+    "name":"Qasim haleem",
+    "age": 20,
+    "city":"thall",
+    "country": "paistan",
+    "score": 3.9,
+    "address": {
+        "city": "thall",
+        "state": "kpk"
+    }
+
+}
